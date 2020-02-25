@@ -1,0 +1,19 @@
+public class motor{
+  float potencia;
+  String color;
+}
+public motor(){
+
+}
+public getpotencia(float potencia){
+  retunr p;
+}
+public float setpotencia(float potencia){
+  this.potenci=p;
+}
+public getcolor(String color){
+  retunr c2
+}
+public String setcolor(String color){
+  this.color=c2;
+}
