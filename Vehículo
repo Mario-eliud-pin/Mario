@@ -1,0 +1,79 @@
+Package ico.fes.poo;
+import ico.fes.poo.componentes.llantas;
+import ico.fes.poo.componentes.motores;
+import ico.fes.poo.componentes.chases;
+
+public class vehiculo{
+
+  private String marca; 
+  private float velocidad;
+  private llantadiametro;
+  private llanta marca;
+  private chasis peso;
+  private chasis color;
+  private motor potencia;
+  private motor color;
+  public vehiculo(){
+  }
+  public vehiculo (String marca, float velocidad, llanta diametro, llanta marca, chasis peso, chasis color, motor potencia, motor color){
+    this.marca=m1;
+    this.velocidad=v;
+    this.diametro=d;
+    this.marca=m2;
+    this.peso=p;
+    this.color=c1;
+    this.potencia=H;
+    this.color=c2;
+    
+  }
+  public Sring getcolor(String marca){
+    return m1;
+  }
+  public void setmarca(String marca){
+    this.marca=m1;
+  }
+  public float getvelocidad(float velocidad){
+    return v;
+  }
+  public void setvelocidad(float velocidad){
+    this.velocidad=v;
+  }
+  public llanta getmarca(llanta diametro){
+    return d;
+   }
+   public void llanta setdiametro(llanta diametro){
+     this.diametro=d;
+   }
+   public llanta getmarca(llanta marca){
+     return m2;
+   }
+   public void setmarca(llanta marca){
+     this.marca=m2
+   }
+   public chasis getpeso(chasis peso){
+     return p;
+   }
+   public void setpeso(chasis peso){
+     this.peso=p;
+  }
+  public chasis getcolor(chasis color){
+    return c1;
+  }
+  public void setcolor(chasis color){
+    this.color=c1
+}
+ public motor getpotencia(motor potencia){
+   return H;
+}
+public void setpotencia(motor potencia){
+  thispotencia=H
+}
+public motor getcolor(motor color){
+  return c2;
+}
+public void setcolor(motor color){
+  this.color=c2;
+}
+     
+     
+}
