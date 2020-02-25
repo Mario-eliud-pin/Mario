@@ -1,0 +1,19 @@
+pubic class llanta{
+  float diametro;
+  String marca;
+  public llanta(){
+
+}
+}
+public getdiametro(float diametro){
+  return diametro;
+}
+public void float setdiametro(float diametro){
+  this.diametro=d;
+}
+public getmarca(String marca){
+  return m1;
+}
+public void String setmarca(String marca){
+  this.marca=m1;
+}
