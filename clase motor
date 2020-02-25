@@ -6,10 +6,10 @@ public motor(){
 
 }
 public getpotencia(float potencia){
-  retunr p;
+  retunr H;
 }
 public float setpotencia(float potencia){
-  this.potenci=p;
+  this.potenci=H;
 }
 public getcolor(String color){
   retunr c2
