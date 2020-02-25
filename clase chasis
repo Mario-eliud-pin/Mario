@@ -1,0 +1,21 @@
+public class chasis{
+  float peso;
+  String color;
+ }
+ public chasis(){
+  
+ }
+ public getpeso(float peso){
+  return p;
+ }
+ public float setpeso(float peso){
+   this.peso=p;
+ }
+ public getcolor(String color){
+   return c1;
+ }
+ public void setcolor(Sring color){
+   this.color=c1;
+ }
+ 
+  
